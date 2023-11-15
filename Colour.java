@@ -4,7 +4,7 @@
  * Warning: it is written in the british form (colour) to not confuse with the Color class
  * from the 2D package
  * 
- * @author Patrick Girard la star
+ * @author Patrick Girard la star des girard
  * @version 2021.08
  */
 public enum Colour
